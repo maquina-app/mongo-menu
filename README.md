@@ -11,7 +11,7 @@ MongoMenu sits in your macOS menu bar, providing easy access to start, stop, and
 ## Features
 
 - **Menu Bar Controls**: Start and stop MongoDB with a single click directly from your menu bar
-- **Visual Status Indicator**: Instantly see if MongoDB is running with a color-coded status icon
+- **Visual Status Indicator**: Instantly see if MongoDB is running in your menu bar
 - **Custom Configuration**: Configure MongoDB's data directory, log path, and port
 - **Auto-start Options**: Choose to start MongoDB automatically when the app launches
 - **Launch at Login**: Set MongoMenu to start when your Mac boots up
