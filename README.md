@@ -19,7 +19,7 @@ MongoMenu sits in your macOS menu bar, providing easy access to start, stop, and
 
 ## Screenshots
 
-![Preferences Window](screenshoots/screenshot2.png)
+![Preferences Window](screenshots/screenshot2.png)
 ![MongoMenu About](screenshots/screenshot3.png)
 
 ## Requirements
