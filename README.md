@@ -41,7 +41,7 @@ To build MongoMenu from source:
 2. Run the build script:
 
    ```bash
-   ./scripts/build.sh
+   ./build.sh
    ```
 
    The build script will:
